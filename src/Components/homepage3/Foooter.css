@@ -1,0 +1,168 @@
+/* Footer.css */
+.foooter{
+  background-color: #030303;
+  color: white;
+  padding: 0;
+  width: 100%;
+  margin-top: 0;
+}
+.foooter a{
+  color: white;
+}
+.container-fluid{
+  background-color: #f8f9fa; /* Light background color */
+  margin: 0;
+  background-color: #030303;
+  padding: 20px ;
+}
+.foooter .button{
+  margin: 5px ;
+  
+}
+.newsletter-section {
+  margin-bottom: 50px;
+}
+
+.newsletter-section h3,
+.newsletter-section p {
+  margin-bottom: 20px;
+}
+
+.newsletter-section .form-inline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.newsletter-section .form-inline .form-control {
+  margin-right: 10px;
+}
+
+.newsletter-section img {
+  width: 300px;
+  height: 300px;
+  margin: 0 10px;
+}
+
+@media (max-width: 767.98px) {
+  .newsletter-section img {
+    display: none;
+  }
+}
+
+.instagram-section {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.instagram-section .row {
+  justify-content: center;
+}
+
+.instagram-section .row.no-gutters {
+  margin: 0;
+}
+
+.instagram-section .col-6,
+.instagram-section .col-sm-4,
+.instagram-section .col-md-2 {
+  padding: 0;
+}
+
+.instagram-section img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+footer .row {
+  margin-bottom: 30px;
+}
+
+footer h5 {
+  margin-bottom: 20px;
+}
+
+footer p,
+footer ul,
+footer ul li {
+  margin-bottom: 10px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+footer ul li a {
+  color: #000;
+  text-decoration: none;
+}
+
+footer ul li a:hover {
+  text-decoration: underline;
+}
+.footer-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+}
+
+.footer-left {
+  flex: 1;
+  text-align: left;
+}
+
+.footer-left p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.footer-left a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer-right {
+  display: flex;
+  gap: 15px;
+}
+
+.payment-link {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.small-img {
+  width: 45px;
+  height: 30px;
+  margin: 0 5px;
+}
+
+@media (max-width: 767.98px) {
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .footer-left,
+  .footer-right {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .footer-right {
+    justify-content: center;
+  }
+}

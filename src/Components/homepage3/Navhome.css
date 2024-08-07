@@ -1,0 +1,24 @@
+.bg-dark {
+    background-color: #070707;  
+}
+
+.vh-100 {
+    height: 100vh;
+}
+.display-3 {
+    font-weight: 500;
+}
+.img-fluid {
+    max-height: 400px; 
+    object-fit: cover;  
+}
+
+.btn-success {
+    background-color: #38cb89; 
+    border-color: #38cb89;  
+}
+
+.btn-success:hover {
+    background-color: #36b87b; 
+    border-color: #36b87b;  
+}

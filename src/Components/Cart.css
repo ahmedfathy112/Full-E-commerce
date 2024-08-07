@@ -1,0 +1,54 @@
+.Cart img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.Cart {
+  width: 100%;
+  overflow: hidden;
+  padding: 15px;
+}
+
+.Cart-head {
+  padding-top: 10px;
+}
+
+.table {
+  width: 100%;
+}
+
+.table th,
+.table td {
+  text-align: center;
+}
+.Cart .btn {
+  margin: 10px;
+  background-color: #000000cb;
+  color: white;
+}
+.Cart .btn-outline-secondary {
+  margin: 0;
+  padding: 1px 16px 5px 5px;
+  border-radius: 0 20px 20px 0;
+}
+@media (max-width: 768px) {
+  .Cart img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .table th,
+  .table td {
+    font-size: 14px;
+  }
+
+  .btn-sm {
+    font-size: 12px;
+    padding: 4px 6px;
+  }
+}
+
+.bg-light {
+  background-color: #f8f9fa;
+}

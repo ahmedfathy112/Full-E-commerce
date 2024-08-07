@@ -1,0 +1,69 @@
+.Footer {
+    background-color: #f7f7f7;
+  }
+  
+  .Footer img {
+    max-width: 200px;
+    height: 200px ;
+  }
+   
+  .form-inline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .envelope-icon {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .email-input {
+    border: 1px solid #ccc;
+    border-radius: 0;
+    box-shadow: none;
+    height: 34px;
+    margin-right: 10px;
+    flex: 1;
+  }
+  
+  .signup-button {
+    background-color: #007bff; /* Bootstrap primary color */
+    border: none;
+    border-radius: 0;
+    height: 34px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    opacity: 0.8;
+    transition: .4s ease;
+  }
+  
+  .footer a:hover {
+   
+    opacity: 1;
+  }
+  
+  .footer i {
+    font-size: 22px;
+    transition: 0.4s ease;
+  }
+  
+  .footer i:hover {
+    color: rgb(208, 19, 255);
+    transform: rotate(360deg);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .footer {
+      text-align: center;
+    }
+  }
+  

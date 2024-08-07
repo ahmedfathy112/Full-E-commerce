@@ -1,0 +1,81 @@
+.promotion {
+  background-color: #141718;
+  margin: 30px 0;
+  color: white;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.promotion img {
+  max-width: 100%;
+  height: auto;
+}
+
+.promotion .details {
+  text-align: left;
+  margin-left: 20px;
+  padding: 20px ;
+ 
+}
+.countdown {
+  padding: 20px;
+  color: #141718;
+}
+.benefit {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.benefit i {
+  padding: 5px 0;
+}
+.count-item {
+  padding: 15px;
+  margin: 0 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  border-radius: 5px;
+  width: 100px;  
+  text-align: center;
+}
+
+.count-item h3 {
+  font-size: 24px;  
+}
+
+.count-item p {
+  font-size: 14px;  
+}
+  .btn{
+  background-color: #38cb89;
+  border: #38cb89;
+  color: #141718;
+  font-weight: 500;
+
+}
+ .btn:hover{
+  background-color: #38cb89cc;
+  border: #38cb89;
+  color: #141718;
+
+
+}
+@media (max-width: 767px) {
+  .count-item {
+      width: 67px;  
+  }
+
+  .count-item h3 {
+      font-size: 18px;
+  }
+
+  .count-item p {
+      font-size: 12px;
+  }
+}
