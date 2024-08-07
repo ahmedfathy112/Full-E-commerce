@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Full-E-commerce/static/css/main.86476129.css",
+    "main.js": "/Full-E-commerce/static/js/main.a3c051f5.js",
+    "static/js/453.06729a46.chunk.js": "/Full-E-commerce/static/js/453.06729a46.chunk.js",
+    "static/media/headphones.jpg": "/Full-E-commerce/static/media/headphones.9732045f92b90162dd8f.jpg",
+    "static/media/land2.jpg": "/Full-E-commerce/static/media/land2.fb1c62c43a635daa6994.jpg",
+    "static/media/LandImage.png": "/Full-E-commerce/static/media/LandImage.456ee2dc79cfb6494b03.png",
+    "static/media/avatar.jpg": "/Full-E-commerce/static/media/avatar.9e4076ee8a56f2603d3a.jpg",
+    "static/media/salesImage.png": "/Full-E-commerce/static/media/salesImage.f4338ec0566e99f40534.png",
+    "static/media/land3.jpg": "/Full-E-commerce/static/media/land3.3c08cea9c3aa69cc3aaf.jpg",
+    "static/media/ShopImageLand.png": "/Full-E-commerce/static/media/ShopImageLand.24ec2cead045a42e35ac.png",
+    "static/media/imageLand1.jpg": "/Full-E-commerce/static/media/imageLand1.cc71c9092ee9b5ce34e3.jpg",
+    "static/media/aboutUsimgae.png": "/Full-E-commerce/static/media/aboutUsimgae.ab6a24afb623e9dfb0ee.png",
+    "static/media/loginImage.png": "/Full-E-commerce/static/media/loginImage.af4754f45fcf185d3af8.png",
+    "static/media/shopProduct.png": "/Full-E-commerce/static/media/shopProduct.dda47e5086ec662ec303.png",
+    "static/media/kitchen.png": "/Full-E-commerce/static/media/kitchen.65dc441b54954c266af4.png",
+    "static/media/bedroom.png": "/Full-E-commerce/static/media/bedroom.fca6be7312163e2c5ad6.png",
+    "static/media/signGoggleImage.jpeg": "/Full-E-commerce/static/media/signGoggleImage.7543fc58c16196809676.jpeg",
+    "static/media/logo.svg": "/Full-E-commerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Full-E-commerce/index.html",
+    "main.86476129.css.map": "/Full-E-commerce/static/css/main.86476129.css.map",
+    "main.a3c051f5.js.map": "/Full-E-commerce/static/js/main.a3c051f5.js.map",
+    "453.06729a46.chunk.js.map": "/Full-E-commerce/static/js/453.06729a46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86476129.css",
+    "static/js/main.a3c051f5.js"
+  ]
+}
